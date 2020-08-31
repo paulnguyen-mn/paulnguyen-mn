@@ -1,16 +1,13 @@
-### Hi there 👋
+![Easy Frontend banner](https://res.cloudinary.com/kimwy/image/upload/v1594865704/easyfrontend/easy-frontend-banner_a40d3f.jpg)
 
-<!--
-**paulnguyen-mn/paulnguyen-mn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Paul Nguyen - Passionate Web Developer, Frontend Trainer
 
-Here are some ideas to get you started:
+- Open and friendly.
+- Love to learn new things, especially things related to Frontend stacks.
+- Enjoy working with ReactJS ❤
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Working
+
+- SSE at fram^: [https://wearefram.com/](https://wearefram.com/)
+- Instructor at Nordic Coder: [https://nordiccoder.com/khoa-hoc/khoa-hoc-web-front-end-development/](https://nordiccoder.com/khoa-hoc/khoa-hoc-web-front-end-development/)
+- Owner of a more than 5k subs Youtube Channel sharing about Frontend: Easy Frontend [https://youtube.com/easyfrontend](https://youtube.com/easyfrontend?sub_confirmation=1)
