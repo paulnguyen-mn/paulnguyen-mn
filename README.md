@@ -1,4 +1,4 @@
-![Easy Frontend banner](https://res.cloudinary.com/easy-frontend/image/upload/v1598840121/easyfrontend/easy-frontend-banner-cropped_yjw0g0.jpg)
+![Easy Frontend banner](https://res.cloudinary.com/easy-frontend/image/upload/v1598840121/blog/easy-frontend-banner-cropped_yjw0g0.jpg)
 
 # Paul Nguyen - Passionate Web Developer, Frontend Trainer
 
@@ -6,7 +6,7 @@
 - Love to learn new things, especially things related to Frontend stacks.
 - Enjoy working with ReactJS ❤
 
-## Working <a href="https://github.com/paulnguyen-mn"><img align="left" width="auto" height="200" src="https://res.cloudinary.com/easy-frontend/image/upload/v1598840300/easyfrontend/programming_hgngx9.png"></a>
+## Working <a href="https://github.com/paulnguyen-mn"><img align="left" width="auto" height="200" src="https://res.cloudinary.com/easy-frontend/image/upload/v1598840300/blog/programming_hgngx9.png"></a>
 
 - `SSE` at fram^: [https://wearefram.com/](https://wearefram.com/)
 - `Instructor` at Nordic Coder: [view it on Nordic Coder website](https://nordiccoder.com/khoa-hoc/khoa-hoc-web-front-end-development/)
